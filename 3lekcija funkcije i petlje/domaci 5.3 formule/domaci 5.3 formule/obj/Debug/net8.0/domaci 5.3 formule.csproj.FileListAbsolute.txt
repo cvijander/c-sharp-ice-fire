@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\bin\Debug\net8.0\domaci 5.3 formule.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\bin\Debug\net8.0\domaci 5.3 formule.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\bin\Debug\net8.0\domaci 5.3 formule.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\bin\Debug\net8.0\domaci 5.3 formule.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\bin\Debug\net8.0\domaci 5.3 formule.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\domaci 5.3 formule.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\domaci 5.3 formule.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\domaci 5.3 formule.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\domaci 5.3 formule.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\domaci 5.3 formule.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\domaci 5.3 formule.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\refint\domaci 5.3 formule.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\domaci 5.3 formule.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\domaci 5.3 formule.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.3 formule\domaci 5.3 formule\obj\Debug\net8.0\ref\domaci 5.3 formule.dll

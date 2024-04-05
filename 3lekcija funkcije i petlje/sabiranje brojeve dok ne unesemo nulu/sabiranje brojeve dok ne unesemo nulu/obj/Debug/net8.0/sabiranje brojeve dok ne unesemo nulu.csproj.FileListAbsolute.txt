@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\bin\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\bin\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\bin\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\bin\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\bin\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\refint\sabiranje brojeve dok ne unesemo nulu.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\sabiranje brojeve dok ne unesemo nulu.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\sabiranje brojeve dok ne unesemo nulu\sabiranje brojeve dok ne unesemo nulu\obj\Debug\net8.0\ref\sabiranje brojeve dok ne unesemo nulu.dll

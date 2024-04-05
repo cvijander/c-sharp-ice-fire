@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "odredjivanje brojeva za dati uslov/1.0.0": {
+        "runtime": {
+          "odredjivanje brojeva za dati uslov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "odredjivanje brojeva za dati uslov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

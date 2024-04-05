@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\bin\Debug\net8.0\pokazna vezba  funkcija.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\bin\Debug\net8.0\pokazna vezba  funkcija.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\bin\Debug\net8.0\pokazna vezba  funkcija.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\bin\Debug\net8.0\pokazna vezba  funkcija.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\bin\Debug\net8.0\pokazna vezba  funkcija.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\pokazna vezba  funkcija.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\pokazna vezba  funkcija.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\pokazna vezba  funkcija.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\pokazna vezba  funkcija.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\pokazna vezba  funkcija.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\pokazna vezba  funkcija.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\refint\pokazna vezba  funkcija.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\pokazna vezba  funkcija.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\pokazna vezba  funkcija.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pokazna vezba  funkcija\pokazna vezba  funkcija\obj\Debug\net8.0\ref\pokazna vezba  funkcija.dll

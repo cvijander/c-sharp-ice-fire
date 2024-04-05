@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\bin\Debug\net8.0\logaritam.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\bin\Debug\net8.0\logaritam.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\bin\Debug\net8.0\logaritam.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\bin\Debug\net8.0\logaritam.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\bin\Debug\net8.0\logaritam.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\logaritam.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\logaritam.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\logaritam.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\logaritam.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\logaritam.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\logaritam.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\refint\logaritam.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\logaritam.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\logaritam.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\logaritam\logaritam\obj\Debug\net8.0\ref\logaritam.dll

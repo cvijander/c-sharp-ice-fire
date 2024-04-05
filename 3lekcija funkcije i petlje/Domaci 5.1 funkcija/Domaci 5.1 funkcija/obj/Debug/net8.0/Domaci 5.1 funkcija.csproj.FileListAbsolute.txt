@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\bin\Debug\net8.0\Domaci 5.1 funkcija.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\bin\Debug\net8.0\Domaci 5.1 funkcija.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\bin\Debug\net8.0\Domaci 5.1 funkcija.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\bin\Debug\net8.0\Domaci 5.1 funkcija.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\bin\Debug\net8.0\Domaci 5.1 funkcija.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\Domaci 5.1 funkcija.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\Domaci 5.1 funkcija.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\Domaci 5.1 funkcija.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\Domaci 5.1 funkcija.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\Domaci 5.1 funkcija.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\Domaci 5.1 funkcija.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\refint\Domaci 5.1 funkcija.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\Domaci 5.1 funkcija.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\Domaci 5.1 funkcija.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Domaci 5.1 funkcija\Domaci 5.1 funkcija\obj\Debug\net8.0\ref\Domaci 5.1 funkcija.dll

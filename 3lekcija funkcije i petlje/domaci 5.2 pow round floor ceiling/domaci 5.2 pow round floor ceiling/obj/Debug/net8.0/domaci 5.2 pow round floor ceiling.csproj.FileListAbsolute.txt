@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\bin\Debug\net8.0\domaci 5.2 pow round floor ceiling.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\bin\Debug\net8.0\domaci 5.2 pow round floor ceiling.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\bin\Debug\net8.0\domaci 5.2 pow round floor ceiling.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\bin\Debug\net8.0\domaci 5.2 pow round floor ceiling.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\bin\Debug\net8.0\domaci 5.2 pow round floor ceiling.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\domaci 5.2 pow round floor ceiling.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\domaci 5.2 pow round floor ceiling.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\domaci 5.2 pow round floor ceiling.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\domaci 5.2 pow round floor ceiling.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\domaci 5.2 pow round floor ceiling.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\domaci 5.2 pow round floor ceiling.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\refint\domaci 5.2 pow round floor ceiling.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\domaci 5.2 pow round floor ceiling.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\domaci 5.2 pow round floor ceiling.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling\obj\Debug\net8.0\ref\domaci 5.2 pow round floor ceiling.dll

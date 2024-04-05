@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\bin\Debug\net8.0\min max koren aps.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\bin\Debug\net8.0\min max koren aps.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\bin\Debug\net8.0\min max koren aps.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\bin\Debug\net8.0\min max koren aps.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\bin\Debug\net8.0\min max koren aps.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\min max koren aps.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\min max koren aps.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\min max koren aps.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\min max koren aps.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\min max koren aps.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\min max koren aps.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\refint\min max koren aps.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\min max koren aps.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\min max koren aps.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\min max koren aps\min max koren aps\obj\Debug\net8.0\ref\min max koren aps.dll

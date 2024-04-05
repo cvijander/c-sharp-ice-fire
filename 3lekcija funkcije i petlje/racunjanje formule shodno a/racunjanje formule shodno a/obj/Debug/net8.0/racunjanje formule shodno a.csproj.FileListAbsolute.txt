@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\racunjanje formule shodno a.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\racunjanje formule shodno a.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\racunjanje formule shodno a.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\racunjanje formule shodno a.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\racunjanje formule shodno a.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\bin\Debug\net8.0\racunjanje formule shodno a.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\bin\Debug\net8.0\racunjanje formule shodno a.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\bin\Debug\net8.0\racunjanje formule shodno a.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\bin\Debug\net8.0\racunjanje formule shodno a.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\bin\Debug\net8.0\racunjanje formule shodno a.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\racunjanje formule shodno a.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\refint\racunjanje formule shodno a.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\racunjanje formule shodno a.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\racunjanje formule shodno a.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\racunjanje formule shodno a\racunjanje formule shodno a\obj\Debug\net8.0\ref\racunjanje formule shodno a.dll

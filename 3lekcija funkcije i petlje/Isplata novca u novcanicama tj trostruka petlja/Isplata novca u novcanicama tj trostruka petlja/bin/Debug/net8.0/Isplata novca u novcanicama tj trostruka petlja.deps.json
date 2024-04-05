@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Isplata novca u novcanicama tj trostruka petlja/1.0.0": {
+        "runtime": {
+          "Isplata novca u novcanicama tj trostruka petlja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Isplata novca u novcanicama tj trostruka petlja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\bin\Debug\net8.0\Celi brojevi u jednom redu.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\bin\Debug\net8.0\Celi brojevi u jednom redu.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\bin\Debug\net8.0\Celi brojevi u jednom redu.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\bin\Debug\net8.0\Celi brojevi u jednom redu.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\bin\Debug\net8.0\Celi brojevi u jednom redu.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\Celi brojevi u jednom redu.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\Celi brojevi u jednom redu.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\Celi brojevi u jednom redu.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\Celi brojevi u jednom redu.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\Celi brojevi u jednom redu.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\Celi brojevi u jednom redu.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\refint\Celi brojevi u jednom redu.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\Celi brojevi u jednom redu.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\Celi brojevi u jednom redu.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Celi brojevi u jednom redu\Celi brojevi u jednom redu\obj\Debug\net8.0\ref\Celi brojevi u jednom redu.dll

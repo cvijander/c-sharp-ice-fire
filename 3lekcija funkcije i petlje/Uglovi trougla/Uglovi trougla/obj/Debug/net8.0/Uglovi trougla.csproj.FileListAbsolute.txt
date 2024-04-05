@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\bin\Debug\net8.0\Uglovi trougla.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\bin\Debug\net8.0\Uglovi trougla.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\bin\Debug\net8.0\Uglovi trougla.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\bin\Debug\net8.0\Uglovi trougla.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\bin\Debug\net8.0\Uglovi trougla.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\Uglovi trougla.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\Uglovi trougla.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\Uglovi trougla.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\Uglovi trougla.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\Uglovi trougla.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\Uglovi trougla.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\refint\Uglovi trougla.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\Uglovi trougla.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\Uglovi trougla.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Uglovi trougla\Uglovi trougla\obj\Debug\net8.0\ref\Uglovi trougla.dll

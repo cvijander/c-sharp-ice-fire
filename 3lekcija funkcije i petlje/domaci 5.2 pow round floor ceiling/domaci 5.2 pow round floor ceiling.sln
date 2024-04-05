@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domaci 5.2 pow round floor ceiling", "domaci 5.2 pow round floor ceiling\domaci 5.2 pow round floor ceiling.csproj", "{08A15941-63CC-45D3-9A95-313559C46E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A15941-63CC-45D3-9A95-313559C46E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A15941-63CC-45D3-9A95-313559C46E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A15941-63CC-45D3-9A95-313559C46E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A15941-63CC-45D3-9A95-313559C46E79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12594693-130A-4860-96FB-9AC975357207}
+	EndGlobalSection
+EndGlobal

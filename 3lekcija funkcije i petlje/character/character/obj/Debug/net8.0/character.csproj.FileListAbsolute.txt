@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\bin\Debug\net8.0\character.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\bin\Debug\net8.0\character.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\bin\Debug\net8.0\character.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\bin\Debug\net8.0\character.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\bin\Debug\net8.0\character.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\character.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\character.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\character.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\character.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\character.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\character.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\refint\character.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\character.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\character.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\character\character\obj\Debug\net8.0\ref\character.dll

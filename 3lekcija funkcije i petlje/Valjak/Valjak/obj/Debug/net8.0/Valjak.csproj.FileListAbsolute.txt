@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\bin\Debug\net8.0\Valjak.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\bin\Debug\net8.0\Valjak.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\bin\Debug\net8.0\Valjak.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\bin\Debug\net8.0\Valjak.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\bin\Debug\net8.0\Valjak.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\Valjak.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\Valjak.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\Valjak.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\Valjak.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\Valjak.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\Valjak.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\refint\Valjak.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\Valjak.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\Valjak.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\Valjak\Valjak\obj\Debug\net8.0\ref\Valjak.dll

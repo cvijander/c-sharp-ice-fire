@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\bin\Debug\net8.0\foreach suma.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\bin\Debug\net8.0\foreach suma.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\bin\Debug\net8.0\foreach suma.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\bin\Debug\net8.0\foreach suma.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\bin\Debug\net8.0\foreach suma.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\foreach suma.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\foreach suma.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\foreach suma.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\foreach suma.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\foreach suma.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\foreach suma.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\refint\foreach suma.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\foreach suma.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\foreach suma.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\foreach suma\foreach suma\obj\Debug\net8.0\ref\foreach suma.dll

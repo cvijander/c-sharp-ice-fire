@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\bin\Debug\net8.0\while sa brojacem.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\bin\Debug\net8.0\while sa brojacem.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\bin\Debug\net8.0\while sa brojacem.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\bin\Debug\net8.0\while sa brojacem.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\bin\Debug\net8.0\while sa brojacem.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\while sa brojacem.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\while sa brojacem.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\while sa brojacem.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\while sa brojacem.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\while sa brojacem.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\while sa brojacem.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\refint\while sa brojacem.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\while sa brojacem.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\while sa brojacem.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\while sa brojacem\while sa brojacem\obj\Debug\net8.0\ref\while sa brojacem.dll

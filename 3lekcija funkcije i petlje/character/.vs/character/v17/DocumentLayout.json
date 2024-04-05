@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ice fire\\kodovi za rad\\3lekcija funkcije i petlje\\character\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C75B5D91-AB7C-46C6-A688-D2FA22E83429}|character\\character.csproj|k:\\ice fire\\kodovi za rad\\3lekcija funkcije i petlje\\character\\character\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75B5D91-AB7C-46C6-A688-D2FA22E83429}|character\\character.csproj|solutionrelative:character\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ice fire\\kodovi za rad\\3lekcija funkcije i petlje\\character\\character\\Program.cs",
+              "RelativeDocumentMoniker": "character\\Program.cs",
+              "ToolTip": "K:\\ice fire\\kodovi za rad\\3lekcija funkcije i petlje\\character\\character\\Program.cs",
+              "RelativeToolTip": "character\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:56:12.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sabiranje brojeve dok ne unesemo nulu/1.0.0": {
+        "runtime": {
+          "sabiranje brojeve dok ne unesemo nulu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sabiranje brojeve dok ne unesemo nulu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

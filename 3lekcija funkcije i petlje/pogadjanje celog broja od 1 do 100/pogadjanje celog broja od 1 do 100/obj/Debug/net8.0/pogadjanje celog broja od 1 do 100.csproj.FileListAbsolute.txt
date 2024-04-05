@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\bin\Debug\net8.0\pogadjanje celog broja od 1 do 100.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\bin\Debug\net8.0\pogadjanje celog broja od 1 do 100.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\bin\Debug\net8.0\pogadjanje celog broja od 1 do 100.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\bin\Debug\net8.0\pogadjanje celog broja od 1 do 100.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\bin\Debug\net8.0\pogadjanje celog broja od 1 do 100.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\pogadjanje celog broja od 1 do 100.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\pogadjanje celog broja od 1 do 100.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\pogadjanje celog broja od 1 do 100.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\pogadjanje celog broja od 1 do 100.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\pogadjanje celog broja od 1 do 100.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\pogadjanje celog broja od 1 do 100.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\refint\pogadjanje celog broja od 1 do 100.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\pogadjanje celog broja od 1 do 100.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\pogadjanje celog broja od 1 do 100.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\pogadjanje celog broja od 1 do 100\pogadjanje celog broja od 1 do 100\obj\Debug\net8.0\ref\pogadjanje celog broja od 1 do 100.dll

@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\bin\Debug\net8.0\odredjivanje brojeva za dati uslov.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\bin\Debug\net8.0\odredjivanje brojeva za dati uslov.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\bin\Debug\net8.0\odredjivanje brojeva za dati uslov.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\bin\Debug\net8.0\odredjivanje brojeva za dati uslov.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\bin\Debug\net8.0\odredjivanje brojeva za dati uslov.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\odredjivanje brojeva za dati uslov.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\odredjivanje brojeva za dati uslov.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\odredjivanje brojeva za dati uslov.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\odredjivanje brojeva za dati uslov.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\odredjivanje brojeva za dati uslov.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\odredjivanje brojeva za dati uslov.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\refint\odredjivanje brojeva za dati uslov.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\odredjivanje brojeva za dati uslov.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\odredjivanje brojeva za dati uslov.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\odredjivanje brojeva za dati uslov\odredjivanje brojeva za dati uslov\obj\Debug\net8.0\ref\odredjivanje brojeva za dati uslov.dll

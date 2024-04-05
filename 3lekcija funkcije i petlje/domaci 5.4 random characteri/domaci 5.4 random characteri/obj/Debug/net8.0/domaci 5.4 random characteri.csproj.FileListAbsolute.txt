@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\bin\Debug\net8.0\domaci 5.4 random characteri.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\bin\Debug\net8.0\domaci 5.4 random characteri.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\bin\Debug\net8.0\domaci 5.4 random characteri.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\bin\Debug\net8.0\domaci 5.4 random characteri.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\bin\Debug\net8.0\domaci 5.4 random characteri.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\domaci 5.4 random characteri.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\domaci 5.4 random characteri.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\domaci 5.4 random characteri.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\domaci 5.4 random characteri.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\domaci 5.4 random characteri.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\domaci 5.4 random characteri.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\refint\domaci 5.4 random characteri.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\domaci 5.4 random characteri.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\domaci 5.4 random characteri.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\domaci 5.4 random characteri\domaci 5.4 random characteri\obj\Debug\net8.0\ref\domaci 5.4 random characteri.dll

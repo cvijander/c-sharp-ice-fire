@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Celi brojevi u jednom redu/1.0.0": {
+        "runtime": {
+          "Celi brojevi u jednom redu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Celi brojevi u jednom redu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

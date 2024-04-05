@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\bin\Debug\net8.0\for petlja milje u kilometri.exe
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\bin\Debug\net8.0\for petlja milje u kilometri.deps.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\bin\Debug\net8.0\for petlja milje u kilometri.runtimeconfig.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\bin\Debug\net8.0\for petlja milje u kilometri.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\bin\Debug\net8.0\for petlja milje u kilometri.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\for petlja milje u kilometri.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\for petlja milje u kilometri.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\for petlja milje u kilometri.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\for petlja milje u kilometri.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\for petlja milje u kilometri.sourcelink.json
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\for petlja milje u kilometri.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\refint\for petlja milje u kilometri.dll
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\for petlja milje u kilometri.pdb
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\for petlja milje u kilometri.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\3lekcija funkcije i petlje\for petlja milje u kilometri\for petlja milje u kilometri\obj\Debug\net8.0\ref\for petlja milje u kilometri.dll
