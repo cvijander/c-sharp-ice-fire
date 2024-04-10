@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\bin\Debug\net8.0\FarenhajtUCelzijus.exe
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\bin\Debug\net8.0\FarenhajtUCelzijus.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\bin\Debug\net8.0\FarenhajtUCelzijus.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\bin\Debug\net8.0\FarenhajtUCelzijus.dll
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\bin\Debug\net8.0\FarenhajtUCelzijus.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\FarenhajtUCelzijus.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\FarenhajtUCelzijus.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\FarenhajtUCelzijus.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\FarenhajtUCelzijus.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\FarenhajtUCelzijus.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\FarenhajtUCelzijus.dll
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\refint\FarenhajtUCelzijus.dll
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\FarenhajtUCelzijus.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\FarenhajtUCelzijus.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\FarenhajtUCelzijus\FarenhajtUCelzijus\obj\Debug\net8.0\ref\FarenhajtUCelzijus.dll

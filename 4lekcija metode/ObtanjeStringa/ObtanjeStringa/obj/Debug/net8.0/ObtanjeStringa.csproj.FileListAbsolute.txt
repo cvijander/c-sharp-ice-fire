@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\bin\Debug\net8.0\ObtanjeStringa.exe
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\bin\Debug\net8.0\ObtanjeStringa.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\bin\Debug\net8.0\ObtanjeStringa.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\bin\Debug\net8.0\ObtanjeStringa.dll
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\bin\Debug\net8.0\ObtanjeStringa.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\ObtanjeStringa.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\ObtanjeStringa.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\ObtanjeStringa.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\ObtanjeStringa.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\ObtanjeStringa.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\ObtanjeStringa.dll
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\refint\ObtanjeStringa.dll
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\ObtanjeStringa.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\ObtanjeStringa.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\ObtanjeStringa\ObtanjeStringa\obj\Debug\net8.0\ref\ObtanjeStringa.dll

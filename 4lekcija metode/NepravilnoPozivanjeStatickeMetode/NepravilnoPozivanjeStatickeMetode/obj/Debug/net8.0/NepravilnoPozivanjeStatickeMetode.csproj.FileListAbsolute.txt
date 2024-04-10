@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\bin\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.exe
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\bin\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\bin\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\bin\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.dll
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\bin\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.dll
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\refint\NepravilnoPozivanjeStatickeMetode.dll
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\NepravilnoPozivanjeStatickeMetode.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\NepravilnoPozivanjeStatickeMetode\NepravilnoPozivanjeStatickeMetode\obj\Debug\net8.0\ref\NepravilnoPozivanjeStatickeMetode.dll

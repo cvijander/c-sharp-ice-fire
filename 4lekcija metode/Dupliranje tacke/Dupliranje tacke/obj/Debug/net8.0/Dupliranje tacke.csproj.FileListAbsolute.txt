@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\bin\Debug\net8.0\Dupliranje tacke.exe
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\bin\Debug\net8.0\Dupliranje tacke.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\bin\Debug\net8.0\Dupliranje tacke.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\bin\Debug\net8.0\Dupliranje tacke.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\bin\Debug\net8.0\Dupliranje tacke.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\Dupliranje tacke.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\Dupliranje tacke.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\Dupliranje tacke.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\Dupliranje tacke.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\Dupliranje tacke.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\Dupliranje tacke.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\refint\Dupliranje tacke.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\Dupliranje tacke.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\Dupliranje tacke.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Dupliranje tacke\Dupliranje tacke\obj\Debug\net8.0\ref\Dupliranje tacke.dll

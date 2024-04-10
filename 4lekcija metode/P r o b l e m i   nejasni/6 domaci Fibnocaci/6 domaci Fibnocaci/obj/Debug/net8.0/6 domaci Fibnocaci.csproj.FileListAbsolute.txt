@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\bin\Debug\net8.0\6 domaci Fibnocaci.exe
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\bin\Debug\net8.0\6 domaci Fibnocaci.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\bin\Debug\net8.0\6 domaci Fibnocaci.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\bin\Debug\net8.0\6 domaci Fibnocaci.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\bin\Debug\net8.0\6 domaci Fibnocaci.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\6 domaci Fibnocaci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\6 domaci Fibnocaci.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\6 domaci Fibnocaci.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\6 domaci Fibnocaci.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\6 domaci Fibnocaci.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\6 domaci Fibnocaci.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\refint\6 domaci Fibnocaci.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\6 domaci Fibnocaci.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\6 domaci Fibnocaci.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci Fibnocaci\6 domaci Fibnocaci\obj\Debug\net8.0\ref\6 domaci Fibnocaci.dll

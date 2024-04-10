@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\bin\Debug\net8.0\Rows and cols matrice.exe
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\bin\Debug\net8.0\Rows and cols matrice.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\bin\Debug\net8.0\Rows and cols matrice.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\bin\Debug\net8.0\Rows and cols matrice.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\bin\Debug\net8.0\Rows and cols matrice.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\Rows and cols matrice.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\Rows and cols matrice.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\Rows and cols matrice.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\Rows and cols matrice.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\Rows and cols matrice.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\Rows and cols matrice.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\refint\Rows and cols matrice.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\Rows and cols matrice.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\Rows and cols matrice.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Rows and cols matrice\Rows and cols matrice\obj\Debug\net8.0\ref\Rows and cols matrice.dll

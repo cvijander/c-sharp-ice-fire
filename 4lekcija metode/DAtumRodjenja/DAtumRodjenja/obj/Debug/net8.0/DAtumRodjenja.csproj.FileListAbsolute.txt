@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\bin\Debug\net8.0\DAtumRodjenja.exe
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\bin\Debug\net8.0\DAtumRodjenja.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\bin\Debug\net8.0\DAtumRodjenja.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\bin\Debug\net8.0\DAtumRodjenja.dll
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\bin\Debug\net8.0\DAtumRodjenja.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\DAtumRodjenja.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\DAtumRodjenja.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\DAtumRodjenja.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\DAtumRodjenja.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\DAtumRodjenja.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\DAtumRodjenja.dll
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\refint\DAtumRodjenja.dll
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\DAtumRodjenja.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\DAtumRodjenja.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\DAtumRodjenja\DAtumRodjenja\obj\Debug\net8.0\ref\DAtumRodjenja.dll

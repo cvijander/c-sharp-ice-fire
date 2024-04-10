@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\bin\Debug\net8.0\Prvi i poslednji karakter.exe
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\bin\Debug\net8.0\Prvi i poslednji karakter.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\bin\Debug\net8.0\Prvi i poslednji karakter.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\bin\Debug\net8.0\Prvi i poslednji karakter.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\bin\Debug\net8.0\Prvi i poslednji karakter.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\Prvi i poslednji karakter.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\Prvi i poslednji karakter.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\Prvi i poslednji karakter.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\Prvi i poslednji karakter.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\Prvi i poslednji karakter.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\Prvi i poslednji karakter.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\refint\Prvi i poslednji karakter.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\Prvi i poslednji karakter.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\Prvi i poslednji karakter.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Prvi i poslednji karakter\Prvi i poslednji karakter\obj\Debug\net8.0\ref\Prvi i poslednji karakter.dll

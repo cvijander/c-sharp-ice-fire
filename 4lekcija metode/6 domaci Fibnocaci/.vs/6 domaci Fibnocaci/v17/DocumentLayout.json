@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\6 domaci Fibnocaci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D3BA0C-7A99-419B-A885-418EA9692715}|6 domaci Fibnocaci\\6 domaci Fibnocaci.csproj|k:\\ice fire\\kodovi za rad\\4lekcija metode\\6 domaci fibnocaci\\6 domaci fibnocaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D3BA0C-7A99-419B-A885-418EA9692715}|6 domaci Fibnocaci\\6 domaci Fibnocaci.csproj|solutionrelative:6 domaci fibnocaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\6 domaci Fibnocaci\\6 domaci Fibnocaci\\Program.cs",
+              "RelativeDocumentMoniker": "6 domaci Fibnocaci\\Program.cs",
+              "ToolTip": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\6 domaci Fibnocaci\\6 domaci Fibnocaci\\Program.cs",
+              "RelativeToolTip": "6 domaci Fibnocaci\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:26:01.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

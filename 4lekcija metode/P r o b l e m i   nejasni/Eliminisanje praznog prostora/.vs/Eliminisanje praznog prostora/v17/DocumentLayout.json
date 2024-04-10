@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\Eliminisanje praznog prostora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA33189-1A50-45A9-B3F2-C320222F62C7}|Eliminisanje praznog prostora\\Eliminisanje praznog prostora.csproj|k:\\ice fire\\kodovi za rad\\4lekcija metode\\eliminisanje praznog prostora\\eliminisanje praznog prostora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA33189-1A50-45A9-B3F2-C320222F62C7}|Eliminisanje praznog prostora\\Eliminisanje praznog prostora.csproj|solutionrelative:eliminisanje praznog prostora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\Eliminisanje praznog prostora\\Eliminisanje praznog prostora\\Program.cs",
+              "RelativeDocumentMoniker": "Eliminisanje praznog prostora\\Program.cs",
+              "ToolTip": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\Eliminisanje praznog prostora\\Eliminisanje praznog prostora\\Program.cs",
+              "RelativeToolTip": "Eliminisanje praznog prostora\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:51:02.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

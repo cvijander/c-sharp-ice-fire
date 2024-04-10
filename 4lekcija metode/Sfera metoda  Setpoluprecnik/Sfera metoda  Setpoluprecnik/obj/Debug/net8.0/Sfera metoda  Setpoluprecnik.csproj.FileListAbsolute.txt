@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\bin\Debug\net8.0\Sfera metoda  Setpoluprecnik.exe
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\bin\Debug\net8.0\Sfera metoda  Setpoluprecnik.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\bin\Debug\net8.0\Sfera metoda  Setpoluprecnik.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\bin\Debug\net8.0\Sfera metoda  Setpoluprecnik.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\bin\Debug\net8.0\Sfera metoda  Setpoluprecnik.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\Sfera metoda  Setpoluprecnik.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\Sfera metoda  Setpoluprecnik.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\Sfera metoda  Setpoluprecnik.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\Sfera metoda  Setpoluprecnik.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\Sfera metoda  Setpoluprecnik.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\Sfera metoda  Setpoluprecnik.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\refint\Sfera metoda  Setpoluprecnik.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\Sfera metoda  Setpoluprecnik.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\Sfera metoda  Setpoluprecnik.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Sfera metoda  Setpoluprecnik\Sfera metoda  Setpoluprecnik\obj\Debug\net8.0\ref\Sfera metoda  Setpoluprecnik.dll

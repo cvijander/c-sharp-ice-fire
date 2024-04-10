@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\bin\Debug\net8.0\TraziZagrade.exe
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\bin\Debug\net8.0\TraziZagrade.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\bin\Debug\net8.0\TraziZagrade.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\bin\Debug\net8.0\TraziZagrade.dll
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\bin\Debug\net8.0\TraziZagrade.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\TraziZagrade.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\TraziZagrade.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\TraziZagrade.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\TraziZagrade.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\TraziZagrade.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\TraziZagrade.dll
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\refint\TraziZagrade.dll
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\TraziZagrade.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\TraziZagrade.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\TraziZagrade\TraziZagrade\obj\Debug\net8.0\ref\TraziZagrade.dll

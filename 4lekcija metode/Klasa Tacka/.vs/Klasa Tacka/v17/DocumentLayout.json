@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\Klasa Tacka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC50CE0E-CAB4-484B-92DE-B998E435E78B}|Klasa Tacka\\Klasa Tacka.csproj|k:\\ice fire\\kodovi za rad\\4lekcija metode\\klasa tacka\\klasa tacka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC50CE0E-CAB4-484B-92DE-B998E435E78B}|Klasa Tacka\\Klasa Tacka.csproj|solutionrelative:klasa tacka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\Klasa Tacka\\Klasa Tacka\\Program.cs",
+              "RelativeDocumentMoniker": "Klasa Tacka\\Program.cs",
+              "ToolTip": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\Klasa Tacka\\Klasa Tacka\\Program.cs",
+              "RelativeToolTip": "Klasa Tacka\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:14:25.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\bin\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.exe
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\bin\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\bin\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\bin\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.dll
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\bin\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.dll
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\refint\PrvoVelikoSlovoPrekoNiza.dll
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\PrvoVelikoSlovoPrekoNiza.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\PrvoVelikoSlovoPrekoNiza\PrvoVelikoSlovoPrekoNiza\obj\Debug\net8.0\ref\PrvoVelikoSlovoPrekoNiza.dll

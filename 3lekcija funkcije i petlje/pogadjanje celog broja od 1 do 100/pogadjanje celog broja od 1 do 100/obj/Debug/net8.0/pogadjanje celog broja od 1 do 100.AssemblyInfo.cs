@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pogadjanje celog broja od 1 do 100")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8de1c595b96422b438cf549c46422ef1d27cb4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d972d4c2474ca026576ed7747d4a2123c399f08")]
 [assembly: System.Reflection.AssemblyProductAttribute("pogadjanje celog broja od 1 do 100")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pogadjanje celog broja od 1 do 100")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

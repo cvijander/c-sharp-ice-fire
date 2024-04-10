@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\bin\Debug\net7.0\MaxMetoda.exe
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\bin\Debug\net7.0\MaxMetoda.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\bin\Debug\net7.0\MaxMetoda.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\bin\Debug\net7.0\MaxMetoda.dll
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\bin\Debug\net7.0\MaxMetoda.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\MaxMetoda.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\MaxMetoda.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\MaxMetoda.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\MaxMetoda.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\MaxMetoda.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\MaxMetoda.dll
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\refint\MaxMetoda.dll
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\MaxMetoda.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\MaxMetoda.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\MaxMetoda\MaxMetoda\obj\Debug\net7.0\ref\MaxMetoda.dll

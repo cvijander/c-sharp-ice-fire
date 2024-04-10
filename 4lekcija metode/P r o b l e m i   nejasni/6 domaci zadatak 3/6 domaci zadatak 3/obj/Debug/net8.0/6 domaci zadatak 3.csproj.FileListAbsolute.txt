@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\bin\Debug\net8.0\6 domaci zadatak 3.exe
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\bin\Debug\net8.0\6 domaci zadatak 3.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\bin\Debug\net8.0\6 domaci zadatak 3.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\bin\Debug\net8.0\6 domaci zadatak 3.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\bin\Debug\net8.0\6 domaci zadatak 3.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\6 domaci zadatak 3.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\6 domaci zadatak 3.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\6 domaci zadatak 3.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\6 domaci zadatak 3.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\6 domaci zadatak 3.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\6 domaci zadatak 3.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\refint\6 domaci zadatak 3.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\6 domaci zadatak 3.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\6 domaci zadatak 3.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci zadatak 3\6 domaci zadatak 3\obj\Debug\net8.0\ref\6 domaci zadatak 3.dll

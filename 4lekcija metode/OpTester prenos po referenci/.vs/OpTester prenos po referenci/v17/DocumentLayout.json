@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\OpTester prenos po referenci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD1D9AB-E6B6-479C-8924-CE7143090D24}|OpTester prenos po referenci\\OpTester prenos po referenci.csproj|k:\\ice fire\\kodovi za rad\\4lekcija metode\\optester prenos po referenci\\optester prenos po referenci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD1D9AB-E6B6-479C-8924-CE7143090D24}|OpTester prenos po referenci\\OpTester prenos po referenci.csproj|solutionrelative:optester prenos po referenci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\OpTester prenos po referenci\\OpTester prenos po referenci\\Program.cs",
+              "RelativeDocumentMoniker": "OpTester prenos po referenci\\Program.cs",
+              "ToolTip": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\OpTester prenos po referenci\\OpTester prenos po referenci\\Program.cs",
+              "RelativeToolTip": "OpTester prenos po referenci\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:25:15.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

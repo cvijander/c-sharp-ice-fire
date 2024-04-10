@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NepravilnoPozivanjeStatickeMetode/1.0.0": {
+        "runtime": {
+          "NepravilnoPozivanjeStatickeMetode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NepravilnoPozivanjeStatickeMetode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

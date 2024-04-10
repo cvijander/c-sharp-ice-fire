@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankovniRacun uplati metoda", "BankovniRacun uplati metoda\BankovniRacun uplati metoda.csproj", "{1A7DC452-E41E-4758-9C70-3F48569D2D17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A7DC452-E41E-4758-9C70-3F48569D2D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7DC452-E41E-4758-9C70-3F48569D2D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7DC452-E41E-4758-9C70-3F48569D2D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7DC452-E41E-4758-9C70-3F48569D2D17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D8EAC5-A7F2-41A2-8FDB-890F1F0ADE47}
+	EndGlobalSection
+EndGlobal

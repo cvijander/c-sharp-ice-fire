@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\Blizanci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401EA59F-7A21-4E41-A19D-5009E661FC26}|Blizanci\\Blizanci.csproj|k:\\ice fire\\kodovi za rad\\4lekcija metode\\blizanci\\blizanci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401EA59F-7A21-4E41-A19D-5009E661FC26}|Blizanci\\Blizanci.csproj|solutionrelative:blizanci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\Blizanci\\Blizanci\\Program.cs",
+              "RelativeDocumentMoniker": "Blizanci\\Program.cs",
+              "ToolTip": "K:\\ice fire\\kodovi za rad\\4lekcija metode\\Blizanci\\Blizanci\\Program.cs",
+              "RelativeToolTip": "Blizanci\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T03:21:10.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

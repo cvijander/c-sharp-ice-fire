@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\Eliminisanje praznog prostora.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\Eliminisanje praznog prostora.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\Eliminisanje praznog prostora.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\Eliminisanje praznog prostora.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\Eliminisanje praznog prostora.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\bin\Debug\net8.0\Eliminisanje praznog prostora.exe
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\bin\Debug\net8.0\Eliminisanje praznog prostora.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\bin\Debug\net8.0\Eliminisanje praznog prostora.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\bin\Debug\net8.0\Eliminisanje praznog prostora.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\bin\Debug\net8.0\Eliminisanje praznog prostora.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\Eliminisanje praznog prostora.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\refint\Eliminisanje praznog prostora.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\Eliminisanje praznog prostora.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\Eliminisanje praznog prostora.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Eliminisanje praznog prostora\Eliminisanje praznog prostora\obj\Debug\net8.0\ref\Eliminisanje praznog prostora.dll

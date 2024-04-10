@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\bin\Debug\net8.0\Blizanci.exe
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\bin\Debug\net8.0\Blizanci.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\bin\Debug\net8.0\Blizanci.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\bin\Debug\net8.0\Blizanci.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\bin\Debug\net8.0\Blizanci.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\Blizanci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\Blizanci.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\Blizanci.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\Blizanci.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\Blizanci.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\Blizanci.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\refint\Blizanci.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\Blizanci.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\Blizanci.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Blizanci\Blizanci\obj\Debug\net8.0\ref\Blizanci.dll

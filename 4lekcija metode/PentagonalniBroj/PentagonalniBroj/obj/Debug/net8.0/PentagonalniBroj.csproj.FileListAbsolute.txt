@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\PentagonalniBroj.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\PentagonalniBroj.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\PentagonalniBroj.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\PentagonalniBroj.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\PentagonalniBroj.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\bin\Debug\net8.0\PentagonalniBroj.exe
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\bin\Debug\net8.0\PentagonalniBroj.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\bin\Debug\net8.0\PentagonalniBroj.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\bin\Debug\net8.0\PentagonalniBroj.dll
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\bin\Debug\net8.0\PentagonalniBroj.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\PentagonalniBroj.dll
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\refint\PentagonalniBroj.dll
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\PentagonalniBroj.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\PentagonalniBroj.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\PentagonalniBroj\PentagonalniBroj\obj\Debug\net8.0\ref\PentagonalniBroj.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NadovezivanjeStringa/1.0.0": {
+        "runtime": {
+          "NadovezivanjeStringa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NadovezivanjeStringa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

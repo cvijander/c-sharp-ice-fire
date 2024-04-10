@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\6 domaci 4.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\6 domaci 4.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\6 domaci 4.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\6 domaci 4.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\6 domaci 4.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\bin\Debug\net8.0\6 domaci 4.exe
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\bin\Debug\net8.0\6 domaci 4.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\bin\Debug\net8.0\6 domaci 4.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\bin\Debug\net8.0\6 domaci 4.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\bin\Debug\net8.0\6 domaci 4.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\6 domaci 4.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\refint\6 domaci 4.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\6 domaci 4.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\6 domaci 4.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6 domaci 4\6 domaci 4\obj\Debug\net8.0\ref\6 domaci 4.dll

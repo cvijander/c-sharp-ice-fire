@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\bin\Debug\net8.0\6.domaciTrougao.exe
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\bin\Debug\net8.0\6.domaciTrougao.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\bin\Debug\net8.0\6.domaciTrougao.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\bin\Debug\net8.0\6.domaciTrougao.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\bin\Debug\net8.0\6.domaciTrougao.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\6.domaciTrougao.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\6.domaciTrougao.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\6.domaciTrougao.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\6.domaciTrougao.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\6.domaciTrougao.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\6.domaciTrougao.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\refint\6.domaciTrougao.dll
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\6.domaciTrougao.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\6.domaciTrougao.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\6.domaciTrougao\6.domaciTrougao\obj\Debug\net8.0\ref\6.domaciTrougao.dll

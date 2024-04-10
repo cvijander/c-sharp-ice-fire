@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\bin\Debug\net8.0\Kvadrat zvezdica.exe
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\bin\Debug\net8.0\Kvadrat zvezdica.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\bin\Debug\net8.0\Kvadrat zvezdica.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\bin\Debug\net8.0\Kvadrat zvezdica.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\bin\Debug\net8.0\Kvadrat zvezdica.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\Kvadrat zvezdica.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\Kvadrat zvezdica.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\Kvadrat zvezdica.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\Kvadrat zvezdica.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\Kvadrat zvezdica.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\Kvadrat zvezdica.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\refint\Kvadrat zvezdica.dll
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\Kvadrat zvezdica.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\Kvadrat zvezdica.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\Kvadrat zvezdica\Kvadrat zvezdica\obj\Debug\net8.0\ref\Kvadrat zvezdica.dll

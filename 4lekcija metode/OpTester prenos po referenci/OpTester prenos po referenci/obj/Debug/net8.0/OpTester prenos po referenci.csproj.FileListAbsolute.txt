@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\bin\Debug\net8.0\OpTester prenos po referenci.exe
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\bin\Debug\net8.0\OpTester prenos po referenci.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\bin\Debug\net8.0\OpTester prenos po referenci.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\bin\Debug\net8.0\OpTester prenos po referenci.dll
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\bin\Debug\net8.0\OpTester prenos po referenci.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\OpTester prenos po referenci.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\OpTester prenos po referenci.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\OpTester prenos po referenci.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\OpTester prenos po referenci.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\OpTester prenos po referenci.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\OpTester prenos po referenci.dll
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\refint\OpTester prenos po referenci.dll
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\OpTester prenos po referenci.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\OpTester prenos po referenci.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\OpTester prenos po referenci\OpTester prenos po referenci\obj\Debug\net8.0\ref\OpTester prenos po referenci.dll

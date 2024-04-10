@@ -1,0 +1,15 @@
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\bin\Debug\net8.0\UplatiNaBankovniRacun.exe
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\bin\Debug\net8.0\UplatiNaBankovniRacun.deps.json
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\bin\Debug\net8.0\UplatiNaBankovniRacun.runtimeconfig.json
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\bin\Debug\net8.0\UplatiNaBankovniRacun.dll
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\bin\Debug\net8.0\UplatiNaBankovniRacun.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\UplatiNaBankovniRacun.GeneratedMSBuildEditorConfig.editorconfig
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\UplatiNaBankovniRacun.AssemblyInfoInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\UplatiNaBankovniRacun.AssemblyInfo.cs
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\UplatiNaBankovniRacun.csproj.CoreCompileInputs.cache
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\UplatiNaBankovniRacun.sourcelink.json
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\UplatiNaBankovniRacun.dll
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\refint\UplatiNaBankovniRacun.dll
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\UplatiNaBankovniRacun.pdb
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\UplatiNaBankovniRacun.genruntimeconfig.cache
+K:\ice fire\kodovi za rad\4lekcija metode\UplatiNaBankovniRacun\UplatiNaBankovniRacun\obj\Debug\net8.0\ref\UplatiNaBankovniRacun.dll
